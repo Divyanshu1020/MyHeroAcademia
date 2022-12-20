@@ -327,4 +327,32 @@ footer .text span a:hover{
     text-decoration: underline;
 }
 
+/* contact  */
+
+
+.contact .content{
+    margin: 0 auto;
+    padding: 30px 0 ;
+}
+.contact .text{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+/* scooll button  */
+
+.scroll-button a{
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    color: #ffffff;
+    background: var(--primary-color);
+    padding: 10px 20px;
+    font-size: 18px;
+    border-radius: 6px;
+    box-shadow: rgba(0, 0, 0, 0.15);
+}
+
+
 
